@@ -336,6 +336,7 @@ CPLv1:52:0:This program and the accompanying materials are made available under 
 EPLv1:10:0:This program and the accompanying materials are made available under the terms of the Eclipse Public License v1\.0 which accompanies this distribution and is available at http<colon>//www\.eclipse\.org/legal/epl\-v10\.html:
 EPLv1:10:0:This program and the accompanying materials are made available under the terms of the Eclipse Public License v1\.0 which accompanies this distribution, and is available at http<colon>//www\.eclipse\.org/legal/epl\-v10\.html:
 EPLv1:10:0:This program and the accompanying materials are made available under the terms of the Eclipse Public License v1\.0 which accompanies this distribution, and is available at http<colon>//eclipse\.org/legal/epl\-v10\.html:
+EPLv1:10:0:Eclipse Public License[ ]*\-[ ]*v[ ]*1\.0:
 CecillEn1:52:0:CeCILL License \(ENGLISH VERSION\):
 CecillEn2:52:0:This software is a computer program whose purpose is to enhance Human-Computer Interfaces written in Java with the Swing framework, providing them a set of functions related to component docking:
 CecillEn3:52:0:This software is governed by the CeCILL license under French law and abiding by the rules of distribution of free software:
