@@ -21,7 +21,7 @@
 #  Pattern
 #
 AllRights:0:1:All rights reserved:
-############################ 
+############################
 # GENERIC rules for GPL
 GPLGen:00:1:^([^,;]+) is <licensed> under the terms of the GPL,? <version>$:2
 GPLGen:01:1:^([^,;]+) is <LICENSED> under the GPL, <VERSION>$:
@@ -205,7 +205,7 @@ XXXLGPLv2_1:24:1:This (library|program)? is free software; you can redistribute 
 XXXLGPLv3seeDetails:70:0:See the GNU Lesser General Public License version 3 for more details:
 XXXLeGPLseeDetails:24:0:See the GNU Lesser General Public License for more details:
 XXXLiGPLseeDetails:24:0:See the GNU Library General Public License for more details:
-########################### 
+###########################
 # BSDs
 # first extrict rules
 BSDcondSourceExtrict:10:0:Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer:
@@ -337,6 +337,7 @@ EPLv1:10:0:This program and the accompanying materials are made available under 
 EPLv1:10:0:This program and the accompanying materials are made available under the terms of the Eclipse Public License v1\.0 which accompanies this distribution, and is available at http<colon>//www\.eclipse\.org/legal/epl\-v10\.html:
 EPLv1:10:0:This program and the accompanying materials are made available under the terms of the Eclipse Public License v1\.0 which accompanies this distribution, and is available at http<colon>//eclipse\.org/legal/epl\-v10\.html:
 EPLv1:10:0:Eclipse Public License[ ]*\-[ ]*v[ ]*1\.0:
+EPLv1:10:0:Eclipse Public License:
 CecillEn1:52:0:CeCILL License \(ENGLISH VERSION\):
 CecillEn2:52:0:This software is a computer program whose purpose is to enhance Human-Computer Interfaces written in Java with the Swing framework, providing them a set of functions related to component docking:
 CecillEn3:52:0:This software is governed by the CeCILL license under French law and abiding by the rules of distribution of free software:
